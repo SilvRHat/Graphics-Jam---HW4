@@ -1,0 +1,32 @@
+Homework 4 - Projections
+Computer Graphics
+Gavin Zimmerman
+
+
+ABOUT
+This project explores camera projections and camera movement for first person.
+Each view may be changed via the camera controls - however the last one simulates a character constrained to walking along a plane so the user cannot move upwards/downwards in mode 3.
+
+
+COMPILING
+To build/ compile the program simply run 'make' on command line.
+And to run, run './hw4'
+
+
+CONTROLS
+    'm'                     change camera mode
+    'q'                     Exit the program
+
+    MIDDLE MOUSE BUTTON     Rotate Camera
+    'w'                     Move forward
+    's'                     Move backward
+    'a'                     Move left
+    'd'                     Move right
+    SHIFT                   Move faster
+
+
+
+TIME TAKEN
+~6 hours
+
+The majority of time taken was building the scene (~3 hours). An additional 2 hours was spent on modifying my camera script from last week already suitable for movement and rotation by mouse.
